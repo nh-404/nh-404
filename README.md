@@ -32,11 +32,11 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=for-the-badge&logo=inux&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
-![Theme Design](https://img.shields.io/badge/-Theme%20Design-yellowgreen?style=for-the-badge&logo=theme&logoColor=white)
+![Theme Design](https://img.shields.io/badge/-Theme%20Design-red?style=for-the-badge&logo=theme&logoColor=white)
 
 ### Social Media 😎
 
 [![FaceBook](https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/nhh.404)
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nomaan_hossain)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nomaan_hossain)
-[![Telegram](https://img.shields.io/badge/Telegram?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nomaan_hossain)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nomaan_hossain)
