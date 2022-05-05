@@ -13,7 +13,7 @@
   <br> 💠 I am Tasnimul Hasan 😊 <br/>
   <br> 💠 I am a citizen of Bangladesh. 🇧🇩 <br/>
   <br> 💠 I am proud to be a Muslim. 🕋 🕌 <br/>
-  <br> 💠 I try to be a professional software developer. 🖥️ 💻 <br/>
+  <br> 💠 I am trying to be a professional software developer. 🖥️ 💻 <br/>
   <br> 💠 Also contributors to the Open Source Program (OSP). ⌨️ <br/>
   <br> 💠 Love to learning and sharing knowlodge among everyone. 📚 <br/>
  
