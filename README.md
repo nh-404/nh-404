@@ -1,6 +1,6 @@
 <div align= "center">
   
-<img src="https://www.shutterstock.com/editor/design/18193927?share_code=7c648a2e96340a0fde1d77707169be4b" width="350">
+<img src="https://www.shutterstock.com/editor/design/18193927?share_code=7c648a2e96340a0fde1d77707169be4b" width="151">
  
 </div>
   
