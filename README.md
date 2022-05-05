@@ -1,6 +1,6 @@
 <div align= "center">
   
-<img src="https://miro.medium.com/max/272/1*WfLZHnqQUQWyBPqYupkpkQ.gif" width="150">
+<img src="https://image.shutterstock.com/image-vector/welcome-poster-spectrum-brush-strokes-600w-1146069941.jpg" width="150">
  
 </div>
   
