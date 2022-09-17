@@ -11,7 +11,7 @@
 ### Assalamu Alaikum  ❤️
   
   <br> 💠 I am Tasnimul Hasan 😊 <br/>
-  <br> 💠 I am a citizen of Bangladesh. 🇧🇩 <br/>
+  <br> 💠 I am citizen of Bangladesh. 🇧🇩 <br/>
   <br> 💠 I am proud to be a Muslim. 🕋 🕌 <br/>
   <br> 💠 I am trying to be a professional software developer. 🖥️ 💻 <br/>
   <br> 💠 Also contributors to the Open Source Program (OSP). ⌨️ <br/>
