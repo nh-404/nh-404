@@ -6,7 +6,7 @@
   
 ### Bios 💠
 
-<div align= "center">
+<div align= "left">
   
 ### Assalamu Alaikum  ❤️
   
