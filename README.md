@@ -26,7 +26,7 @@
 ### Farmework 🥸
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Kivy](https://img.shields.io/badge/Kivy-kivy-lightgrey?style=for-the-badge&logo=django&logoColor=white)
+![Kivy](https://img.shields.io/badge/Kivy-092E20?style=for-the-badge&logo=kivy&logoColor=white)
 
 ### Others Skills 👻
 
