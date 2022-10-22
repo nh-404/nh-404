@@ -40,6 +40,6 @@
 [![Instagram](https://img.shields.io/badge/Instagram-red?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nomaan_hossain)
 [![Twitter](https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nomaan_hossain)
 [![Website](https://img.shields.io/badge/Website-lightgray?style=for-the-badge&logo=website&logoColor=white)](https://feliz4ru.wordpress.com)
-[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nomaan_hossain)
+[![Telegram](https://img.shields.io/badge/Telegram-blue?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nh_404)
 [![Linkedin](https://img.shields.io/badge/Linkedin-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/mwlite/in/nh404)
 
