@@ -1,9 +1,3 @@
-<div align= "center">
-  
-<img src="https://image.shutterstock.com/image-vector/assalamualaikum-islamic-calligraphy-vector-golden-600w-1833437188.jpg" width="351">
- 
-</div>
-
 <h1 align="center">✨ I'm Tasnimul Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
 
 
