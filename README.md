@@ -27,22 +27,22 @@ Loves: Coding , Stuff technology 🚀, Books 📚.
 <h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 
-### Language 🙄
+### Language 
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Farmework 🥸
+### Farmework 
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-092E20?style=for-the-badge&logo=kivy&logoColor=white)
 
 ### Database
 
-![PostgreSQL](https://img.shields.io/badge/-Linux-lightgrey?style=for-the-badge&logo=inux&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=for-the-badge&logo=inux&logoColor=white)
 
-### Others Skills 👻
+### Others Skills 
 
-![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=for-the-badge&logo=inux&logoColor=white)
+![Linux](https://img.shields.io/badge/-Linux-grey?style=for-the-badge&logo=inux&logoColor=white)
 
 
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
