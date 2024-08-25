@@ -3,15 +3,28 @@
 <img src="https://image.shutterstock.com/image-vector/assalamualaikum-islamic-calligraphy-vector-golden-600w-1833437188.jpg" width="351">
  
 </div>
-  
-### Bios 💠
 
-<div align= "left">
-  
-### Assalamu Alaikum  ❤️
-  
-  <br> 💠 I am Tasnimul Hasan. I'm a seasoned backend developer with a passion for crafting robust and scalable solutions. My expertise lies in utilizing Python and Django to build powerful web applications, coupled with a deep understanding of managing data with PostgreSQL. I've honed my skills in designing efficient database schemas, writing clean and maintainable code, and optimizing performance for optimal user experience. As an active contributor to open-source projects, I'm dedicated to fostering collaboration and innovation within the developer community. <br/>
- 
+<h1 align="center">✨ I'm Tasnimul Hasan <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px" height="35px"></h1>
+
+
+<h2 align="center"> 💬 About me 👁️‍🗨️ </h2>
+
+```csharp
+
+My Profile
+-------------------------------
+Name: Tasnimul Hasan.
+WhoamI: Backend Developer.
+Gender: Male.
+Location: Dhaka, Bangladesh 🇧🇩.
+Loves: Coding , Stuff technology 🚀, Books 📚. 
+
+```
+<br>
+
+
+<div>
+<h2 align="center"> 🔎 Knowledge 📖 </h2>
 </div>
 
 ### Language 🙄
@@ -23,9 +36,15 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Kivy](https://img.shields.io/badge/Kivy-092E20?style=for-the-badge&logo=kivy&logoColor=white)
 
+### Database
+
+![PostgreSQL](https://img.shields.io/badge/-Linux-lightgrey?style=for-the-badge&logo=inux&logoColor=white)
+
 ### Others Skills 👻
 
 ![Linux](https://img.shields.io/badge/-Linux-lightgrey?style=for-the-badge&logo=inux&logoColor=white)
+
+
 ![GitHub](https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ### Social Media 😎
